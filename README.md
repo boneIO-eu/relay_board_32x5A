@@ -1,5 +1,5 @@
 # Relay Board 32x5A
 
-More info: http://docs.boneio.eu/
+Documentation you will find here: https://boneio.eu/hardware
 
-![RelayBoard](.resources/relay_board_32x5A_v0.3_small.jpg?raw=true)
+![RelayBoard](.resources/32x5a_v0.3_top_small.jpg?raw=true)
