@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name boneIO_LOGO)(type KiCad)(uri ${KIPRJMOD}/Library/)(options "")(descr ""))
-  (lib (name ph80ds-21)(type KiCad)(uri ${KIPRJMOD}/Library/)(options "")(descr ""))
+  (lib (name "boneIO_LOGO")(type "KiCad")(uri "${KIPRJMOD}/Library/")(options "")(descr ""))
+  (lib (name "ph80ds-21")(type "KiCad")(uri "${KIPRJMOD}/Library/")(options "")(descr ""))
+  (lib (name "sth20")(type "KiCad")(uri "${KIPRJMOD}/3d_Model/sth20")(options "")(descr ""))
 )
